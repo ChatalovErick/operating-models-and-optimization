@@ -1,2 +1,2 @@
-# operating-models-and-optimization
+# operating models and optimization
  
